@@ -1,4 +1,5 @@
-# Hack Club Theme Starter
+# Contract Thingy
+[![Run on Repl.it](https://repl.it/badge/github/iamcpdev/contract-thingy)](https://repl.it/github/iamcpdev/contract-thingy)
 
 A sample [Next.js] project for getting started with [MDX], [Theme UI], & [Hack Club Theme].
 
